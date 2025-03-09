@@ -1,7 +1,7 @@
 body {
   font-family: "Helvetica";
   background-color: #f6f8fa;
-  color: #24292f;
+  color: #F5F5DC;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -24,7 +24,7 @@ body {
 }
 
 .header__subtitle {
-  color: #FFFFFF;
+  color: #F5F5DC;
   font-size: 16px;
   line-height: 1.4;
   margin: 0;
